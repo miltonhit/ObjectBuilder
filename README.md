@@ -29,7 +29,7 @@ If you don't want to install the Abobe AIR, just download the .zip file in [rele
 
 Or
 
-1. Install the [Adobe AIR](http://get.adobe.com/air/)
+1. Install the [Adobe AIR]([http://get.adobe.com/air/](https://airsdk.harman.com/runtime))
 2. Install the .air file in [releases](https://github.com/ottools/ObjectBuilder/releases).
 
 
